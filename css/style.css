@@ -1,0 +1,36 @@
+body {
+  background:  #3450FF;
+}
+
+footer {
+  background: #E8D341;
+  color: #E831D9;
+
+
+}
+
+.container {
+  border: 5px solid: black;
+  margin: 0 auto;
+  padding:50px;
+  width: 960px;
+}
+ul
+{
+  padding: 10px;
+  margin: 5px;
+  float: center;
+  width: auto;
+  background-color: #FF5D00;
+  color: #5CFF66;
+  text-align: center;
+
+
+}
+
+
+
+
+
+/* FF5D00
+5CFF66 /*
